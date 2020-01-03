@@ -1,0 +1,22 @@
+Variable Name,Explanation,,,,,,
+date,date,,,,,,
+pitch_type,The type of pitch thrown. Names to the right ,,,,,,Pitch Types
+release_speed,The speed of the pitch after being thrown by the pitcher,,,,,,FT = Two-Seam Fastball
+player_name,The name of the player who hit the homer,,,,,,FC = Cutter
+home_team,The home team when the homer was hit. ,,,,,,FF = Four-Seam Fastball
+bb_type,"Type of batted ball, either ""line drive"" or ""fly ball""",,,,,,CH = Changeup
+inning,inning,,,,,,CU = Curveball
+hit_distance,The distance that the home run traveled.,,,,,,KN = Knuckleball
+launch_speed ,The exit velocity of the ball coming off the bat.,,,,,,SI = Sinker
+launch_angle,The angle the ball initially travels with after contact,,,,,,SL = Slider
+release_spin,Spin rate of the ball when thrown by the pitcher.,,,,,,FS = Splitter
+pitch_name,"Name of the pitch thrown, probably redundant",,,,,,KC = Knuckle Curve
+DailyAverageDryBulbTemperature,Average Temperature for the day. In Fahrenheit.,,,,,,
+DailyAverageStationPressure,Atmospheric Pressure at that station. In inHg (inches of mercury),,,,,,
+DailyAverageWindSpeed,"Average Wind Speed, in mph",,,,,,
+DailyDepartureFromNormalAverageTemperature,How far off that day was from historic norms for that day.,,,,,,
+DailyCoolingDegreeDays,Cooling Degree Days - every degree that the mean temp is above 65 degrees,,,,,,
+DailyHeatingDegreeDays,Heating Degree Days - every degree the mean temp is below 65 degrees,,,,,,
+DailyMaximumDryBulbTemperature,Daily Max Temp,,,,,,
+DailyMinimumDryBulbTemperature,Daily Min Temp,,,,,,
+DailyPrecipitation,"Amount of precipitation, in inches",,,,,,
