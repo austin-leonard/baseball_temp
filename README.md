@@ -1,5 +1,7 @@
 # Temperature and Home Runs 
 An investigation of the effects of temperature on the relationship between exit velocity and home run distance. Analysis was performed for a final project in an Applied Regression course, but will be expanded upon in future independent research efforts. 
 
+The project was done in R using a multiple linear regression model with an interaction term. The project examined the simple slopes of the interaction at the mean of the moderator as well as one standard deviation above and below the mean of the moderator. Additionally, the regions of significance were examined with a Johnson-Neyman plot. Results found that temperature did not significantly effect the relationhip between exit velocity and home run distance for the selected data.  
+
 For the initial analysis, data was pulled from all Atlanta Braves home games in the Statcast era. The idea was to focus on one city with a variable climate in an attempt to control for things like elevation, precipitation, and ballpark size. Future efforts will expand the analysis to multiple parks, perhaps all 30 one day, to more completely understand the effects of those variables. Also, future analysis will examine fly ball distance as opposed to home run distance. Doing so will allow regression models to more effectively capture the effect of temperature on distance, and perhaps to see which temperatures push a borderline home run over the fence. 
 
